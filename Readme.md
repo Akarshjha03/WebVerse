@@ -6,7 +6,7 @@ This repository contains a comprehensive web application built using Django and 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,flask,react,redux,sqlite,postgresql,jwt,docker" />
+    <img src="https://skillicons.dev/icons?i=react,redux,django,flask,sqlite,docker" />
   </a>
 </p>
 
@@ -20,7 +20,6 @@ This repository contains a comprehensive web application built using Django and 
 
 ### Database
 - **SQLite**: Default Django database for development.
-- **PostgreSQL**: Recommended for production.
 
 ### Additional Tools
 - **JWT**: JSON Web Tokens for secure user authentication.
