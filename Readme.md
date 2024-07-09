@@ -6,37 +6,20 @@ This repository contains a comprehensive web application built using Django and 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,django,flask,sqlite,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,django,flask,mysql" />
   </a>
 </p>
 
-### Backend
-- **Django**: High-level Python web framework for building the backend API and handling server-side logic.
-- **Flask**: Lightweight WSGI web application framework used for creating RESTful APIs.
-
-### Frontend
-- **React**: Frontend library for building the user interface.
-- **Redux**: State management for maintaining the application state.
-
-### Database
-- **SQLite**: Default Django database for development.
-
-### Additional Tools
-- **JWT**: JSON Web Tokens for secure user authentication.
-- **Docker**: Containerization for consistent development and deployment environments.
-
 ## Features
-- **User Authentication**: Secure login and registration system using JWT.
+- **User Authentication**: Secure login and registration system.
 - **Responsive Design**: Mobile-first design to ensure compatibility with all devices.
 - **RESTful APIs**: Structured API for interaction between frontend and backend.
-- **State Management**: Redux for maintaining application state.
+- **State Management**: Maintaining application state.
 
 ## Installation
 
 ### Prerequisites
 - Python 3.x
-- Node.js
-- Docker (optional for containerization)
 
 ### Clone the repository:
 ```bash
@@ -50,16 +33,11 @@ cd backend
 pip install -r requirements.txt
 ```
 
-### Install dependencies for frontend (React):
-```bash
-cd ../frontend
-npm install
-```
 ### Create a .env file in the backend directory and add your environment variables:
 ```bash
 SECRET_KEY=your_django_secret_key
-DATABASE_URL=your_database_url (optional for PostgreSQL)
-JWT_SECRET=your_jwt_secret
+DATABASE_URL=your_database_url
+JWT_SECRET=your_secret
 ```
 
 ## Start the development servers
