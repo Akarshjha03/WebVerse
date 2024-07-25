@@ -6,7 +6,7 @@ This repository contains a comprehensive web application built using Django and 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,html,css,postman,flask,MySQL,pycharm" />
+    <img src="https://skillicons.dev/icons?i=python,django,html,css,postman,flask,mysql,pycharm" />
   </a>
 </p>
 
