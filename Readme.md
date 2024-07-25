@@ -19,7 +19,7 @@ This repository contains a comprehensive web application built using Django and 
 ## Installation
 
 ### Prerequisites
-- Python 3.x
+- Python 3.12
 
 ### Clone the repository:
 ```bash
